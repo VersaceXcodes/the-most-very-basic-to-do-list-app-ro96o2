@@ -1,0 +1,15 @@
+{
+  "timestamp": 1751284992145,
+  "operation": {
+    "id": "backend:server:main"
+  },
+  "projectId": "the-most-very-basic-to-do-list-app",
+  "files": [
+    {
+      "path": "../../apps/the-most-very-basic-to-do-list-app/backend/server.ts",
+      "type": "text",
+      "size": 5427,
+      "dependencies": false
+    }
+  ]
+}

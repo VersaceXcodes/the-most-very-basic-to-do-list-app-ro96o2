@@ -1,0 +1,15 @@
+{
+  "timestamp": 1751285010962,
+  "operation": {
+    "id": "settings:config:package"
+  },
+  "projectId": "the-most-very-basic-to-do-list-app",
+  "files": [
+    {
+      "path": "../../apps/the-most-very-basic-to-do-list-app/backend/.env",
+      "type": "text",
+      "size": 440,
+      "dependencies": false
+    }
+  ]
+}

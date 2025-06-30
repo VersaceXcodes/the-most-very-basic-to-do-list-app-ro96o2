@@ -1,0 +1,15 @@
+{
+  "timestamp": 1751284957297,
+  "operation": {
+    "id": "db:postgres"
+  },
+  "projectId": "the-most-very-basic-to-do-list-app",
+  "files": [
+    {
+      "path": "../../apps/the-most-very-basic-to-do-list-app/backend/db.sql",
+      "type": "text",
+      "size": 690,
+      "dependencies": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "timestamp": 1751285124527,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "GV_AppContainer",
+      "version": "latest"
+    }
+  },
+  "projectId": "the-most-very-basic-to-do-list-app",
+  "files": [
+    {
+      "path": "../../apps/the-most-very-basic-to-do-list-app/vitereact/src/components/views/GV_AppContainer.tsx",
+      "type": "text",
+      "size": 1507,
+      "dependencies": false
+    }
+  ]
+}

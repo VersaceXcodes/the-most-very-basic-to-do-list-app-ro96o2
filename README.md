@@ -1,2 +1,3 @@
-# the-most-very-basic-to-do-list-app-ro96o2
-Generated project for the-most-very-basic-to-do-list-app
+app generated from cofounder/boilerplate
+
+instructions here on how to start api and frontend , whether in parallel or separately

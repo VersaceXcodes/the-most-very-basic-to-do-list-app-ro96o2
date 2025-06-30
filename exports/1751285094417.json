@@ -1,0 +1,15 @@
+{
+  "timestamp": 1751285094417,
+  "operation": {
+    "id": "settings:config:package"
+  },
+  "projectId": "the-most-very-basic-to-do-list-app",
+  "files": [
+    {
+      "path": "../../apps/the-most-very-basic-to-do-list-app/vitereact/package.json",
+      "type": "text",
+      "size": 2910,
+      "dependencies": true
+    }
+  ]
+}

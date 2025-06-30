@@ -1,0 +1,19 @@
+{
+  "timestamp": 1751285132922,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_TaskManagement",
+      "version": "1751285106995"
+    }
+  },
+  "projectId": "the-most-very-basic-to-do-list-app",
+  "files": [
+    {
+      "path": "../../apps/the-most-very-basic-to-do-list-app/vitereact/src/components/views/UV_TaskManagement.tsx",
+      "type": "text",
+      "size": 8106,
+      "dependencies": false
+    }
+  ]
+}
